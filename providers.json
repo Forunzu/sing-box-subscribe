@@ -1,7 +1,7 @@
 {
     "subscribes":[
         {
-            "url": "URL",
+            "url": "https://syynweb.shop/api/v1/client/subscribe?token=f904ed2bea68efc2088b212f87745311",
             "tag": "tag_1",
             "enabled": true,
             "emoji": 1,
